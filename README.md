@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!--
-**Sanbolee/Sanbolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on PHP/Golang
+- 🌱 I’m currently learning PHP/Golang/Mysql/Vue……
+- 👯 I’m looking to collaborate on fun
+- 🤔 I’m looking for help with fun
+- 💬 Ask me about fun
+- 📫 How to reach me: 327087894@qq.com
+- 😄 Pronouns: Sanbolee
+- ⚡ Fun fact: 😄
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanbolee)](https://github.com/anuraghazra/github-readme-stats)
